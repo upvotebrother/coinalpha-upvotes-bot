@@ -1,0 +1,1 @@
+# coinalpha-upvotes-bot
